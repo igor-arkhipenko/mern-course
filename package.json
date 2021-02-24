@@ -1,0 +1,17 @@
+{
+  "name": "mern-course",
+  "version": "1.0.0",
+  "description": "MERN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Igor Arkhipenko",
+  "license": "ISC"
+}
